@@ -1,0 +1,6 @@
+brew install sl
+brew install cowsay
+brew install cmatrix
+brew install espeak
+
+gem install bundler
